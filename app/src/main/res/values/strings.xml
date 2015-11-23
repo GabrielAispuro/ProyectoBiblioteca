@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HOURGLASS</string>
+
+    <string name="title_inicio">INICIO</string>
+    <string name="title_arte">ARTE</string>
+    <string name="title_cae">CUERPO, ALMA Y ESPIRITU</string>
+    <string name="title_negocios">NEGOCIOS Y FINANZAS</string>
+    <string name="title_literatura">LITERATURA</string>
+    <string name="title_historia">HISTORIA</string>
+    <string name="title_poesia">POESIA</string>
+    <string name="title_agregar">AGRANDA NUESTRA BIBLIOTECA</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_login">Encuentranos</string>
+
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_registro">RegistroActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_agregar">AgregarActivity</string>
+</resources>
